@@ -9,14 +9,7 @@ https://kitsunera.pages.dev
 ![Pentesting](https://img.shields.io/badge/Pentesting-DC143C?style=for-the-badge&logo=kalilinux)
 
 
-
-
-
-**Project highlights:** <br>
-<s>*I do not post network pentesting tools as i prefer to keep them to myself to not be liable for damage.</s> I might develop one soon for sale*
-- [URL-mirror](https://kvts.vercel.app) - open any link through an american proxy, whether trying to access news in restricted countries, or opening a potentially malicious/phishing page safely.
-- [nekolyze](https://nekolyze.vercel.app) - (Work in progress) Very detailed malware scanning, with over 15 thousand rules and algorithms, to return a malware family/type and name. *coming soon: malware statistics, how much damage was caused and computers were infected with that file.*
-
+# uhhh page in progress give me a few years
 ```
 ⣿⣿⣿⣿⣿⡿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⠇⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
